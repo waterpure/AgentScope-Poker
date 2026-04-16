@@ -7,6 +7,17 @@
 
 ---
 
+
+
+
+## 🎥 核心场景演示：Multi-Agent 德州扑克博弈推演
+
+https://github.com/user-attachments/assets/9399244d-4a72-4183-b373-8984d3b31641
+
+
+
+
+
 ## 🌟 核心特性与架构亮点
 
 ### 1. Neuro-Symbolic（神经符号）解耦架构
